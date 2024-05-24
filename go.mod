@@ -1,3 +1,3 @@
 module github.com/nasypovd/go-versions-lib
 
-go 1.11
+go 1.22
